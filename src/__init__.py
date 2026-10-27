@@ -1,0 +1,1 @@
+"""Pacote AI Edge Estimator."""
