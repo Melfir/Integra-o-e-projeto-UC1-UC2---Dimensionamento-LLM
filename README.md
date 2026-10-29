@@ -1,6 +1,6 @@
 # AI Edge Estimator
 
-Projeto integrador UC1 + UC2: estimativa inicial de memória para executar LLMs localmente.
+Projeto integrador UC1 + UC2: estimativa inicial de memória para executar LLMs localmente. 
 
 ## Requisitos
 
